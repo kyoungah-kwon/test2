@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+a{
+		font-size:15px;
+		color:#004FFF;
+		text-decoration: none;
+		border: 2px solid #004fff
+     }
+
+h1{
+		font-family: Times, "Times New Roman", "serif";		
+		color:red;
+		text-decoration:underline;
+	}
